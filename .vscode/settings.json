@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 15,
+  "debug.console.fontSize": 16,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "markdown.preview.lineHeight": 1.8,
+  "markdown.preview.fontSize": 16,
+  "editor.minimap.sectionHeaderFontSize": 18,
+  "chat.editor.fontSize": 16,
+  "scm.inputFontSize": 16,
+  "terminal.integrated.fontSize": 15
+}
